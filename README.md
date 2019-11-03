@@ -1,3 +1,5 @@
-"execute mnist/mnist.py"\n
-"cd single directory"\n
-"make and execute"\n
+1. execute mnist/mnist.py
+
+2. cd single directory
+
+3. make and execute
